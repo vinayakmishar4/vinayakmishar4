@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinayak</h1>
 <h3 align="center">A passionate developer from India a</h3>
-<img aglin="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhtml&psig=AOvVaw2X6XoVyOu-1NeQfX2S6x-m&ust=1678286468716000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCIjbeGyv0CFQAAAAAdAAAAABAE">
+<img aglin="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/88668137/223457936-74859617-e17b-490e-ae2f-277eb94e009e.png)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakmishar4&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakmishar4" /> </p>
 
 - 📫 How to reach me **vmaugust24@gmail.com**
