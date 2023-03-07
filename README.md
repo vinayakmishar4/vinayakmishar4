@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak Mishra</h1>
 <h3 align="center">A passionate developer from India </h3>
-<img aglin="right" alt="coding" width="400" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img aglin="right" alt="coding" width="200" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakmishar4&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakmishar4" /> </p>
 
 - 📫 How to reach me **vmaugust24@gmail.com**
