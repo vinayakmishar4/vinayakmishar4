@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ## 🚀 About Me
-I am a [Your Profession] with a passion for [Your Interests]. I love working on projects that involve [Technologies or Fields of Interest].
+I am a [Data and M.L Engineer] with a passion for [A.I/M.L]. I love working on projects that involve [Machine Learning and Data].
 
 - 🌍 I'm based in [Your Location]
 - 🧠 Currently learning [What You're Learning]
