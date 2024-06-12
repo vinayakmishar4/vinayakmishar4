@@ -1,8 +1,12 @@
-<h1 align="center">Hi there, I'm Vinayak Mishra 👋</h1>
+# Hi there, I'm Vinayak Mishra 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinayak-mishra-93003b1b3"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:mvinayak316@outlook.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://x.com/vmaugust24"><img src="https://img.shields.io/badge/-X-blue?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="https://www.instagram.com/vinayak_mishra4"><img src="https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram"></a>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+## 🚀 About Me
+I am a Machine Learning  with a passion for Artifical Intelligence. I love working on projects that involve M.L,python based project,Data Analytics.
+
+- 🌍 I'm based in Ghaziabad
+- 🧠 Currently learning Power B.I
+- 💬 Ask me about on M.l,SQL,PYTHON
+- 📫 How to reach me: mvinayak316@outlook.com
+- 📝 [My Resume](link to your resume)
