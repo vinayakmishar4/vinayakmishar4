@@ -9,4 +9,3 @@ I am a Machine Learning  with a passion for Artifical Intelligence. I love worki
 - 🧠 Currently learning Power B.I
 - 💬 Ask me about on M.l,SQL,PYTHON
 - 📫 How to reach me: mvinayak316@outlook.com
-- 📝 My Resume-Vinayak_Mishra
