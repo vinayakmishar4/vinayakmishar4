@@ -11,9 +11,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-## Coding Profile 👨‍💻
+## My GeeksforGeeks Profile
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/user/vmaugust24/)
+[![Vinayak's GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen)](https://www.geeksforgeeks.org/user/vmaugust24/)
 
 [![vmaugust24's GeeksforGeeks Stats](https://cp-logo.vercel.app/geeksforgeeks/vmaugust24?logo=true)](https://www.geeksforgeeks.org/user/vmaugust24/)
 
