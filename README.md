@@ -11,3 +11,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+## Coding Profile 👨‍💻
+
+[![Badge](https://cp-logo.vercel.app/leetcode/Shivam__kumar00?logo=true)](https://www.geeksforgeeks.org/user/vmaugust24/)
+
+[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Shivam__kumar00&theme=Dark&width=600)](https://leetcode.com/Shivam__kumar00/)
+
+
