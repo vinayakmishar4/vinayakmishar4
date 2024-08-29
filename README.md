@@ -14,6 +14,7 @@
 ## Coding Profile 👨‍💻
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/user/vmaugust24/)
+
 [![vmaugust24's GeeksforGeeks Stats](https://cp-logo.vercel.app/geeksforgeeks/vmaugust24?logo=true)](https://www.geeksforgeeks.org/user/vmaugust24/)
 
 
