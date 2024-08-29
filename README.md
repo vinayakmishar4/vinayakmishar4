@@ -1,10 +1,2 @@
-# Hi there, I'm Vinayak Mishra 👋
-
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
-## 🚀 About Me
-I am a Machine Learning  with a passion for Artifical Intelligence. I love working on projects that involve M.L,python based project,Data Analytics.
-
-- 🌍 I'm based in Ghaziabad
-- 💬 Ask me about on M.l,SQL,PYTHON
-- 📫 How to reach me: mvinayak316@outlook.com
+<h1 align="center">Hey there,I am Vinayak Mishra</h1>
+<h3 align="center">| ML AND AI ENGINNER | Data Analytics |</h3>
