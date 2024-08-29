@@ -13,7 +13,7 @@
 
 ## My GeeksforGeeks Profile
 
-![GeeksforGeeks](https://www.geeksforgeeks.org/wp-content/themes/geeksforgeeks/images/logo.png)
+[![GeeksforGeeks](https://www.geeksforgeeks.org/wp-content/themes/geeksforgeeks/images/logo.png)
 
 [![Vinayak's GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen)](https://www.geeksforgeeks.org/user/vmaugust24/)
 
