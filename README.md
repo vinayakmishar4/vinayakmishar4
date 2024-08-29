@@ -15,6 +15,6 @@
 
 [![Badge](https://cp-logo.vercel.app/leetcode/Shivam__kumar00?logo=true)](https://www.geeksforgeeks.org/user/vmaugust24/)
 
-[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Shivam__kumar00&theme=Dark&width=600)](https://leetcode.com/Shivam__kumar00/)
+[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vmaugust24&theme=Dark&width=600)](https://www.geeksforgeeks.org/user/vmaugust24/)
 
 
