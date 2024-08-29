@@ -13,9 +13,9 @@
 
 ## My GeeksforGeeks Profile
 
-[![Vinayak's GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen)](https://www.geeksforgeeks.org/user/vmaugust24/)
+![GeeksforGeeks](https://www.geeksforgeeks.org/wp-content/themes/geeksforgeeks/images/logo.png)
 
-[![vmaugust24's GeeksforGeeks Stats](https://cp-logo.vercel.app/geeksforgeeks/vmaugust24?logo=true)](https://www.geeksforgeeks.org/user/vmaugust24/)
+[![Vinayak's GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen)](https://www.geeksforgeeks.org/user/vmaugust24/)
 
 
 
