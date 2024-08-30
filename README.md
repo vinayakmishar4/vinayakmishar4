@@ -13,7 +13,7 @@
 
 ## Coding Profile 
 
-[![Badge](https://cp-logo.vercel.app/leetcode/vmaugust24?logo=true)](https://leetcode.com/Shivam__kumar00/)
+[![Badge](https://cp-logo.vercel.app/leetcode/vmaugust24?logo=true)](https://leetcode.com/u/vmaugust24/)
 
 [![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Shivam__kumar00&theme=Dark&width=600)](https://leetcode.com/Shivam__kumar00/)
 
