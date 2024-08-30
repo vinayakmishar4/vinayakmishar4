@@ -17,5 +17,10 @@
 
 [![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vmaugust24&theme=Dark&width=600)](https://leetcode.com/u/vmaugust24/)
 
+## Trophies 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayakmishar4" alt="vinayakmishar4" /></a> </p>
+
+
 
 
