@@ -13,6 +13,7 @@
 
 ## Coding Profile 
 
+[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vmaugust24&theme=Dark&width=600)](https://leetcode.com/u/vmaugust24/)
 
 ## Trophies 
 
