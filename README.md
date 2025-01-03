@@ -20,10 +20,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayakmishar4" alt="vinayakmishar4" /></a> </p>
 
 ## Stats 📈
-<p > <img align="center" src="https://komarev.com/ghpvc/?username=vinayakmishar4&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakmishar4" /> </p>
-<p align="center"> <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakmishar4&show_icons=true&theme=great-gatsby&title_color=ffffff&text_color=ffffff&locale=en&layout=compact&hide_border=true" alt="vinayakmishar4" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinayakmishar4&show_icons=true&theme=vision-friendly-dark&hide_border=true&locale=en&hide_border=true" alt="vinayakmishar4" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakmishar4&theme=highcontrast&hide_border=true" alt="vinayakmishar4" /> </p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vinayakmishar4&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 ## Lets Connect 🤝
 
